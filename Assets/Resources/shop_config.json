@@ -1,0 +1,28 @@
+{
+    "skins": [
+        {
+            "skinId": "Default",
+            "displayName": "Đĩa sứ trắng (Mặc định)",
+            "price": 0,
+            "description": "Đĩa sứ trắng tinh khôi, miễn phí cho mọi người chơi."
+        },
+        {
+            "skinId": "Clay",
+            "displayName": "Đĩa đất sét (Clay)",
+            "price": 50,
+            "description": "Đĩa thủ công bằng đất sét đỏ, mộc mạc và chắc chắn."
+        },
+        {
+            "skinId": "Wooden",
+            "displayName": "Đĩa gỗ sồi (Wooden)",
+            "price": 100,
+            "description": "Đĩa gỗ sồi thượng hạng, vân gỗ sang trọng tự nhiên."
+        },
+        {
+            "skinId": "Golden",
+            "displayName": "Đĩa vàng ròng (Golden)",
+            "price": 250,
+            "description": "Đĩa dát vàng hoàng gia, biểu tượng bậc Thợ Làm Bánh Pizza."
+        }
+    ]
+}
